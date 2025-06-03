@@ -1,0 +1,17 @@
+Customer Name : CUP
+Book Name : GraphicValidation
+Activity Name : undefined
+Stage Name : Graphics
+Paper Back Number : 1111111111242
+Hardback Number : 1111111111242
+OC Number : 1111111111242
+iAuthor : No
+Book Category : All-CUP
+Style1 : 
+Style2 : 
+Style3 : 
+Style4 : 
+Style5 : 
+Style6 : 
+CSS : 
+Numbered Box : none
